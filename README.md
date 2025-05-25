@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanski11
 - 👀 I’m interested in you (char)
-- 🌱 I’m currently learning Javascript and C#
+- 🌱 I’m currently learning JavaScript, C#, Python
 - 📫 How to reach me 
 - Discord - sanski.
 
